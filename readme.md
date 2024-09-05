@@ -17,7 +17,7 @@ Sistemas de Comunicaciones Digitales I - 2024
 
 ## Entregables
 
-La entrega se realizará mediante un repositorio git público alojado en GitHub y creado como Fork de este repositorio.
+La entrega se realizará mediante un repositorio git público alojado en GitHub y creado como Fork de este repositorio ([https://github.com/fmirandabonomi/scd_2024-proyecto_2](https://github.com/fmirandabonomi/scd_2024-proyecto_2)).
 Debe incluir el código desarrollado y un informe escrito.
 
 El informe escrito debe contener las siguientes partes
